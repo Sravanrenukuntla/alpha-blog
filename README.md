@@ -1,0 +1,2 @@
+# alpha-blog
+Test application
